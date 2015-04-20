@@ -1,0 +1,1 @@
+This is the database of river gauges that electronically monitor waterlevels every half hour and report back to the Environment Agency.
