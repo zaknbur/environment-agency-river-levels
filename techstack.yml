@@ -1,7 +1,8 @@
 repo_name: zaknbur/environment-agency-river-levels
 report_id: a1a341620d8523d42a39f40cb5828f23
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-23T15:32:38+00:00'
+timestamp: '2024-01-05T08:35:10+00:00'
 requested_by: zaknbur
 provider: github
 branch: master
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/zaknbur/environment-agency-river-levels
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -25,4 +27,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/zaknbur/environment-agency-river-levels
   detection_source: Repo Metadata
